@@ -10,6 +10,7 @@
 *.elf
 *.bin
 !src/tp2/traces/*.bin
+!src/prioinv/traces/*.bin
 
 # Precompiled Headers
 *.gch
