@@ -9,7 +9,6 @@
 *.a
 *.elf
 *.bin
-!src/tp2/traces/*.bin
 
 # Precompiled Headers
 *.gch
