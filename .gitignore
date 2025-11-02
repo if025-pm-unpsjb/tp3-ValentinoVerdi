@@ -11,6 +11,7 @@
 *.bin
 !src/tp2/traces/*.bin
 !src/prioinv/traces/*.bin
+!src/pip/traces/*.bin
 
 # Precompiled Headers
 *.gch
